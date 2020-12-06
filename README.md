@@ -18,6 +18,8 @@ The search for the best machine learning algorithm to adopt for the specific cla
 * **Model evaluation**: with the hyperparameter gfound at the previous step, it is possibile to train the model with them and to evaluate its performances. The evaluation phase is used again a K-fold cross validation.
 * **Prediction**: finally, the model is retrained on the whole dataset with the specified hyperparameters foud during tuning phase and new instances can be predicted. 
 
+The best solution chosen is SCV with polinomial kernel, which gave an accuracy of 72,4% on test set.
+
 ## Documentation & Code
 
 Complete description of assignment can be found **[here](/Assignment.pdf)**.
