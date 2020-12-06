@@ -1,7 +1,7 @@
 # Data Mining
 Repository for Data Mining project.
 
-Individual project consisting in building a classifier for recognizing Alzheimer disease.
+Individual project consisting in building a classifier for Alzheimer's disease detection.
 
 AY 2020/2021
 
