@@ -20,6 +20,6 @@ The search for the best machine learning algorithm to adopt for the specific cla
 
 ## Documentation & Code
 
-Complete description of assignment can be fond **[here](/Assignment.pdf)**.
+Complete description of assignment can be found **[here](/Assignment.pdf)**.
 
 Source code of project can be found **[here](/AlzheimerClassification.ipynb)**.
